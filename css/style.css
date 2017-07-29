@@ -1,0 +1,212 @@
+.center_color_border {
+    color:#ffffff;
+    text-align:left;
+    margin:auto;
+    border: 1px solid #000000;
+}
+
+
+
+body { 
+    background-color: #f8f9d6;
+    width: 100%;
+   
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    /*width: 100px;*/
+    border: 5px #CDDEE1;
+    text-align: center;
+    
+}
+    
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    /*display:block;*/
+    padding: 15px 12px;
+    color: #000000;
+    text-decoration: none;
+}
+
+
+nav li a:hover {
+    color: #ffffff;
+    background-color: #000000;
+    /*if you hover over the link, it will turn white*/
+}
+
+/*.header {*/
+/*	margin:10px;*/
+/*	height:100px;*/
+/*  background-color: #A19E86;*/
+/*	display: flex;*/
+/*	flex-direction: column;*/
+/*	justify-content: center;*/
+/*	align-items: center;*/
+
+/*}*/
+
+header {
+	margin: 15px;
+	font-size: 30px;
+	padding:5px;
+    background-color: #A19E86;
+    text-align: center;
+    border:10px;
+    }
+ 
+#logobackground h1 {
+    margin: 0;
+    height: 1;
+}
+ 
+/*
+h3 {
+	font-size: 40px;
+	padding:5px;
+  background-color: #B9CAD8;
+}
+/*h3 might not be necessary*/
+
+.card {
+	width: 900px;
+	margin:auto;
+    background-color: #A19E86;
+    border-color: ;
+}
+
+.dog-image {
+	margin:10px;
+	height:100px;
+
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+  background-color: #A19E86;
+}
+
+.dog-header {
+	font-size: 20px;
+	text-align: center;
+	margin:10px;
+	padding:5px;
+    background-color: #f8f9d6;
+}
+
+.dog-content {
+	margin:10px;
+	padding:10px;
+    background-color: #E6EED6
+}
+
+.dog-container {
+	margin:10px;
+
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	/*this uses flexbox in dog-container*/
+
+}
+
+footer {
+    text-align: center;
+     font-family: 'Indie Flower', cursive;
+     background-color: #A19E86;
+     
+   
+}
+
+/*This is the maltese coupon*/
+
+.maltesecoupon {
+    margin:auto;
+    width:635px;
+    padding:10px;
+    height:780px;
+    border:dotted #04963E;
+    font-size:27px;
+    background-color:#A0CFD3;
+    text-align: center;
+    color:#AD0C0C;
+    margin-bottom: 84px;
+}
+
+.supercontainer {
+    display:flex;
+
+}
+
+/*Team-mates! copy this down and use this! Allow sizing for shrinking maltese images.*/
+.froggyflex {
+    display: flex;
+    justify-content: center;
+}
+
+.froggyflex img {
+    width: 100%;
+}
+
+.dogflex {
+    display: flex;
+    justify-content: center;
+}
+
+.dogflex img {
+    width: 100%;
+}
+
+
+/*RIBBBBBIT (FROG SOUND)*/
+
+p {text-align:center;}
+
+.middle {
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /*this centers and gives space at the top and bottom of home coupon*/
+}
+
+#mixedbreedcoupon1 {
+    text-align: center;
+}
+
+
+#mastiffcoupon {
+    text-align: center;
+    
+}
+
+/*#headerstatic {*/
+/*    position: fixed;*/
+/*    width: 100%;*/
+/*    background-color: #A19E86;*/
+}
+/*Testing this comment- just playing around*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
